@@ -1,5 +1,5 @@
 # TheHive-Automation
-Few Custom Scripts To Interact With TheHive
+Few Custom Scripts To Interact With TheHive Using TheHive4 Api
 
 ## About
 
